@@ -16,4 +16,4 @@ Located in **Minsk, Belarus**
 * Assembler AVR
 
 ## English level:
-B1 - Upper  Intermediate  [EF SET Certificate](https://www.efset.org/cert/7PrMLm)
+B2 - Upper  Intermediate  [EF SET Certificate](https://www.efset.org/cert/7PrMLm)
