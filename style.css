@@ -1,0 +1,60 @@
+body {
+    height:  100vh;
+    
+    background: url('./images/background.jpg');
+  
+    
+  }
+
+header {
+  color: #fff;
+  background-color: rgb(68, 16, 189);
+  font-weight: 900;
+  font-family: sans-serif;
+  margin: 10px 20% 0px 20%;
+  text-align: center;
+  padding: 10px;
+  line-height: 10px;
+  text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
+}
+.Main {
+  display: flex;
+  margin: 0px 20% 0px 20%;
+  line-height: 10px;
+}
+
+.About-me {
+  font-family: sans-serif;
+  background-color: rgb(198, 205, 209);
+  text-indent: 20px;
+  width: 65%;
+  flex-direction: column;
+  color:rgb(41, 50, 172);
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  text-align: justify;
+  font-size: 18px;
+  line-height: 25px;
+  padding-left: 20px;
+  padding-right: 20px;     
+}
+
+.target-links {
+  margin-left: 50px;
+}
+
+.Info {
+  background-color: rgb(83, 92, 224);
+  text-indent: 20px;
+  width: 35%;
+  flex-direction: column;
+  color: rgb(198, 205, 209);
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  font-size: 18px;
+  line-height: 27px;
+  padding-left: 20px;
+  padding-right: 20px;  
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
